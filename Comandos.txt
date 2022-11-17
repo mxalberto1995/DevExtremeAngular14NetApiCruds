@@ -1,0 +1,2 @@
+update-database
+npm run start 
